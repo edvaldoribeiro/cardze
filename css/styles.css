@@ -83,3 +83,12 @@ body {
 .over {
   background-color: #4cd13718;
 }
+.todo .status.pill{
+    background-color: red;
+}
+.doing .status.pill{
+    background-color: yellow;
+}
+.done .status.pill{
+    background-color: green;
+}
